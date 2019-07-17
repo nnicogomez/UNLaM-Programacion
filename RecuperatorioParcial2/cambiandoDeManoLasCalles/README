@@ -1,0 +1,4 @@
+Los casos de pruebas del profe se encuentran en /casos de prueba/Entrada.
+El documento de word son los casos propuestos por mi en el parcial.
+
+La idea es hacer una matriz simetrica (sin diferenciar las direcciones de las calles), y al mismo tiempo guardarme una lista de aristas que son las que vienen con el problema, para poder ver despues si el camino mas corto se corresponde con un camino que ya viene dado o si por el contrario, si se cambia de direccion.
